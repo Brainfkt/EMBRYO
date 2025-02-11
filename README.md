@@ -31,9 +31,9 @@ The repository is divided into distinct parts, each governed by specific license
 ## Licenses
 
 - **Source Code (MIT License)**  
-  You will find the full text of the MIT License in the [MIT LICENSE](structure/LICENSE) file located in the `structure` folder.  
+  You will find the full text of the MIT License in the [MIT LICENSE](structure/LICENSE_MIT) file located in the `structure` folder.  
   *(This license applies exclusively to the content in the `structure` folder.)*
 
 - **Narrative Work (CC BY-NC-SA 4.0 License)**  
-  The full text of the CC BY-NC-SA 4.0 License is available in the [CC-BY-NC-SA-4.0 LICENSE](story/LICENSE) file located in the `story` folder.  
+  The full text of the CC BY-NC-SA 4.0 License is available in the [CC-BY-NC-SA-4.0 LICENSE](story/LICENSE_CC_BY-NC-SA_4.0) file located in the `story` folder.  
   *(This license covers all creative and narrative elements outside of the source code.)*
